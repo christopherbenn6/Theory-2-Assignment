@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Christopher Benn - Front End Developer",
+    "title": "Christopher Benn - Web Designer",
     "description": "Hello! I am a web designer and current student at NAIT.",
     "footer": {
       "year": "2026",
@@ -11,44 +11,43 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
+    "personName": "Christopher",
+    "jobTitle": "Web Designer",
     "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "location": "Canada",
+    "countryCode": "Ca",
+    "nationality": "Canada",
+    "publisherName": "Christopher",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://github.com/christopherbenn6"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Christopher Benn",
+    "summary": " a web designer and current student at NAIT.",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/christopherbenn6"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://christopherbenn-portfolio.com/"
       },
       {
         "ariaLabel": "dribble profile",
         "screenReaderLabel": "Dribble Profile",
         "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://christopherbenn-portfolio.com/"
       }
     ],
     "supportLink": {
-      "url": "https://ko-fi.com/M4M71O34X",
+      "url": "https://christopherbenn-portfolio.com/",
       "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
       "imageAlt": "Buy Me a Coffee at ko-fi.com"
     },
@@ -58,38 +57,38 @@
     }
   },
   "about": {
-    "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "title": "About Me",
+    "intro": "Hello! I am a web designer and current student at NAIT. Starting my journey in game development, I spent over a year with the Unity Engine and C#.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
       "JavaScript",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
+      "PHP",
+      "Wordpress",
+      "Shopify",
       "Nodejs"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": " I love working with complicated systems, and quickly took a liking to Javascript, PHP and other programming languages. However I also love the beauty of design.",
+    "approach": "Over time I found my passion belonged in another field and I moved to Web Development. Web development jumped out to me as a way to combine the complexity of code with the beauty of design in a way that I was eager to continue."
   },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "christopherbenn6@gmail.com",
+    "location": "Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://christopherbenn-portfolio.com/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/christopherbenn6"
       },
       {
         "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://christopherbenn-portfolio.com/"
       }
     ]
   },
